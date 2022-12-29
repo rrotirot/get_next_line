@@ -30,7 +30,6 @@ char	*get_next_line(int fd);
 char	*process_str(int fd, char *buff, char *str);
 char	*process_line(char *str);
 
-
 /*---------UTILS----------*/
 char	*ft_strchr(char *s, int c);
 char	*ft_strjoin(char *str, char *buff);
